@@ -38,11 +38,19 @@
         <td><a href="https://github.com/redhat-plumbers-in-action/tracker-validator">@tracker-validator</a></td>
     </tr>
     <tr>
-        <td><img src="members/red-plumber.png" width = 139px height = 139px></td>
+        <td><img src="members/bordo-plumber.png" width = 139px height = 139px></td>
         <td><a href="https://github.com/redhat-plumbers-in-action/pull-request-validator">@pull-request-validator</a></td>
+    </tr>
+    <tr>
+        <td><img src="members/red-plumber.png" width = 139px height = 139px></td>
+        <td><a href="https://github.com/redhat-plumbers-in-action/issue-commentator">@issue-commentator</a></td>
     </tr>
     <tr>
         <td><img src="members/yellow-plumber.png" width = 139px height = 139px></td>
         <td><a href="https://github.com/redhat-plumbers-in-action/auto-merge">@auto-merge</a></td>
+    </tr>
+    <tr>
+        <td><img src="members/viridian-plumber.png" width = 139px height = 139px></td>
+        <td><a href="https://github.com/redhat-plumbers-in-action/regression-sniffer">@regression-sniffer</a></td>
     </tr>
 </table>
